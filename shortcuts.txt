@@ -5,3 +5,4 @@ syso - System.out.println
 
 ctrl m - (adjust workspace)
 ctrl shift f11 - (executes)
+ctrl + / - (line comment)
