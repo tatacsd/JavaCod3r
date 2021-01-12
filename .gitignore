@@ -9,3 +9,10 @@ exercicios/.settings/*
 
 ## Extra files
 Files/*
+/.metadata/
+.project
+.classpath
+org.eclipse.jdt.core.prefs
+
+
+/bin/
