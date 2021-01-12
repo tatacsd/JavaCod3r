@@ -1,0 +1,7 @@
+Type the word and "ctrl + space" to select the shortcut
+
+main 
+syso - System.out.println
+
+ctrl m - (adjust workspace)
+ctrl shift f11 - (executes)
