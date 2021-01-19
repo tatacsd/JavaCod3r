@@ -19,7 +19,6 @@ public class Inferencia {
 		// var e;
 		// e = 123;
 		
-
 	}
 
 }
