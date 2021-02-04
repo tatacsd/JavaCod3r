@@ -14,7 +14,7 @@ public class For1 {
 			x++;
 		}
 		
-		//Laço infito
+		// Laço infito
 		for(;;) {
 			System.out.println("Infinito");
 		}
