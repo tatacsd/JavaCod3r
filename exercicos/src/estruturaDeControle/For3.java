@@ -18,6 +18,7 @@ public class For3 {
 			for(int k = 0; k < 10; k++) {
 				System.out.printf("[%d %d]", j,k);
 			}
+			System.out.println();
 		}
 	}
 
