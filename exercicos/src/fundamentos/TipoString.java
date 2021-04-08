@@ -16,10 +16,10 @@ public class TipoString {
 		System.out.println(s.equalsIgnoreCase("good afternoon"));
 		
 		
-		var nome = "Pedro";
-		var sobrenome = "Santos";
-		var idade = 33;
-		var salario = 12345.987F;
+		String nome = "Pedro";
+		String sobrenome = "Santos";
+		int idade = 33;
+		float salario = 12345.987F;
 		
 		System.out.println("Nome: " + nome +"\nSobrenome: " + sobrenome + "\nIdade: " + idade + "\nSalario: " + salario + "\n\n");
 		System.out.printf("O senhor %s %s tem %d anos e ganha R$%.2f.", nome, sobrenome, idade, salario);

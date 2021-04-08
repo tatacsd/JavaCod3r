@@ -8,7 +8,7 @@ public class Inferencia {
 		System.out.println(a);
 		
 		// Java vai inferir de acordo com o valor colocado
-		var b = 4.5;
+		// var b = 4.5;
 		
 		
 		double d;
