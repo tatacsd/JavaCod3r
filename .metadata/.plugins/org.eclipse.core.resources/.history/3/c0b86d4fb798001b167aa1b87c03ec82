@@ -1,0 +1,16 @@
+package br.com.cod3r.campominado.modelo;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class CampoTeste {
+
+	private Campo campo = new Campo(3,3);
+	
+	@Test
+	void testeVizinhoReal() {
+		
+	}
+
+}

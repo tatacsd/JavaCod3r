@@ -1,0 +1,8 @@
+package br.com.cod3r.campominado.modelo;
+
+import br.com.cod3r.campominado.model.Campo;
+
+public class CampoTeste {
+
+	private Campo campo = new Campo(3,3); 
+}

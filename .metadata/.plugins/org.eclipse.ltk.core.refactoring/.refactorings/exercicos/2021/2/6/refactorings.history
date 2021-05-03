@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;numStudents&apos; in &apos;estruturaDeControle.DesafioWhile.main(...)&apos; to &apos;numNotas&apos;&#x0D;&#x0A;- Original project: &apos;exercicos&apos;&#x0D;&#x0A;- Original element: &apos;estruturaDeControle.DesafioWhile.main(String[]).numStudents&apos;&#x0D;&#x0A;- Renamed element: &apos;numStudents&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;numStudents&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;estruturaDeControle{DesafioWhile.java[DesafioWhile~main~\[QString;@numStudents!172!191!176!186!I!0!false" name="numNotas" references="true" stamp="1612422548281" version="1.0"/>
+</session>

@@ -1,0 +1,22 @@
+package br.com.cod3r.campominado;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.Test;
+
+class Teste {
+
+	@Test
+	void testSeIgualADois() {
+		int a = 1+1;
+		
+		assertEquals(2, a);
+	}
+
+	@Test
+	void testarSeIgualATres() {
+		int x = 2 + 10 - 7;
+		
+		assertEquals(3, x);
+	}
+}
